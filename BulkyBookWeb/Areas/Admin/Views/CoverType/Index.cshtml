@@ -1,0 +1,76 @@
+﻿@model IEnumerable<CoverType>
+@{
+    ViewData["Title"] = "Index";
+}
+
+<partial name ="_Notification"/>
+
+<div class="container p-3">
+    <div class = "row pt-4">
+       <div class="col-6">
+           <h2 class="text-primary">Cover Type List</h2>
+       </div>  
+       <div class = "col-6 text-end">
+          <a asp-controller = "CoverType" asp-action ="Create" class =" btn btn-primary">
+              <i class="bi bi-plus-circle"></i>&nbsp;
+              Create Covertype
+          </a>
+       </div>
+    </div>
+    <br/><br/>
+
+<table class="table table-bordered table-striped" style="width:100%">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Id)
+            </th>
+             <th>
+                 @Html.DisplayNameFor(model => model.Name)
+             </th>
+             <th></th>
+             <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(var item in Model)
+        {
+            <tr>
+                <td style = "width:20%">@item.Id</td>
+                <td style = "width:50%">@item.Name</td>
+                 <td>
+                    @* w-75 specifies a width of 75% -- https://getbootstrap.com/docs/4.0/utilities/sizing/
+                       button group - wraps a series of buttons with .btn in .btn-group. https://getbootstrap.com/docs/4.0/components/button-group/
+                      role="group" - Ensure correct role and provide a label
+                        In order for assistive technologies (such as screen readers) to convey that a series of buttons is grouped, an appropriate role attribute needs to be provided. For button groups,
+                        this would be role="group", while toolbars should have a role="toolbar".
+                        https://getbootstrap.com/docs/4.0/components/button-group/
+                      role="group" - Ensure correct role and provide a label
+                    *@
+                    <div class="w-75 btn-group" role="group">
+                        <a class="btn btn-primary"
+                        asp-controller="CoverType"
+                        asp-action ="Edit"
+                        asp-route-id="@item.Id"
+                        >
+                        <i class="bi bi-pencil-square"></i>
+                        Edit
+                        </a>
+                    </div>
+                    </td>
+
+                    <td>
+                    <div class="w-75 btn-group" role="group">
+                        <a class="btn btn-danger" 
+                           asp-controller="CoverType"
+                           asp-action = "Delete"
+                           asp-route-id ="@item.Id"
+                           >
+                            <i class="bi bi-trash"></i>Delete
+                        </a>
+                    </div>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
