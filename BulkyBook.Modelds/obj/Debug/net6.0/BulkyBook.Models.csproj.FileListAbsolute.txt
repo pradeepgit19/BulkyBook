@@ -10,3 +10,15 @@ C:\Users\prade\source\repos\BulkyBook\BulkyBook.Modelds\obj\Debug\net6.0\BulkyBo
 C:\Users\prade\source\repos\BulkyBook\BulkyBook.Modelds\obj\Debug\net6.0\BulkyBook.Models.dll
 C:\Users\prade\source\repos\BulkyBook\BulkyBook.Modelds\obj\Debug\net6.0\ref\BulkyBook.Models.dll
 C:\Users\prade\source\repos\BulkyBook\BulkyBook.Modelds\obj\Debug\net6.0\BulkyBook.Models.pdb
+C:\Users\prade\Github_MobileApp\BulkyBook\BulkyBook.Modelds\bin\Debug\net6.0\BulkyBook.Models.deps.json
+C:\Users\prade\Github_MobileApp\BulkyBook\BulkyBook.Modelds\bin\Debug\net6.0\BulkyBook.Models.dll
+C:\Users\prade\Github_MobileApp\BulkyBook\BulkyBook.Modelds\bin\Debug\net6.0\ref\BulkyBook.Models.dll
+C:\Users\prade\Github_MobileApp\BulkyBook\BulkyBook.Modelds\bin\Debug\net6.0\BulkyBook.Models.pdb
+C:\Users\prade\Github_MobileApp\BulkyBook\BulkyBook.Modelds\obj\Debug\net6.0\BulkyBook.Models.csproj.AssemblyReference.cache
+C:\Users\prade\Github_MobileApp\BulkyBook\BulkyBook.Modelds\obj\Debug\net6.0\BulkyBook.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prade\Github_MobileApp\BulkyBook\BulkyBook.Modelds\obj\Debug\net6.0\BulkyBook.Models.AssemblyInfoInputs.cache
+C:\Users\prade\Github_MobileApp\BulkyBook\BulkyBook.Modelds\obj\Debug\net6.0\BulkyBook.Models.AssemblyInfo.cs
+C:\Users\prade\Github_MobileApp\BulkyBook\BulkyBook.Modelds\obj\Debug\net6.0\BulkyBook.Models.csproj.CoreCompileInputs.cache
+C:\Users\prade\Github_MobileApp\BulkyBook\BulkyBook.Modelds\obj\Debug\net6.0\BulkyBook.Models.dll
+C:\Users\prade\Github_MobileApp\BulkyBook\BulkyBook.Modelds\obj\Debug\net6.0\ref\BulkyBook.Models.dll
+C:\Users\prade\Github_MobileApp\BulkyBook\BulkyBook.Modelds\obj\Debug\net6.0\BulkyBook.Models.pdb

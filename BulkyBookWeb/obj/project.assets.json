@@ -10944,11 +10944,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\prade\\source\\repos\\BulkyBook\\BulkyBookWeb\\BulkyBookWeb.csproj",
+      "projectUniqueName": "C:\\Users\\prade\\Github_MobileApp\\BulkyBook\\BulkyBookWeb\\BulkyBookWeb.csproj",
       "projectName": "BulkyBookWeb",
-      "projectPath": "C:\\Users\\prade\\source\\repos\\BulkyBook\\BulkyBookWeb\\BulkyBookWeb.csproj",
+      "projectPath": "C:\\Users\\prade\\Github_MobileApp\\BulkyBook\\BulkyBookWeb\\BulkyBookWeb.csproj",
       "packagesPath": "C:\\Users\\prade\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\prade\\source\\repos\\BulkyBook\\BulkyBookWeb\\obj\\",
+      "outputPath": "C:\\Users\\prade\\Github_MobileApp\\BulkyBook\\BulkyBookWeb\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\prade\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -10965,8 +10965,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\prade\\source\\repos\\BulkyBook\\BulkyBook.DataAccess\\BulkyBook.DataAccess.csproj": {
-              "projectPath": "C:\\Users\\prade\\source\\repos\\BulkyBook\\BulkyBook.DataAccess\\BulkyBook.DataAccess.csproj"
+            "C:\\Users\\prade\\Github_MobileApp\\BulkyBook\\BulkyBook.DataAccess\\BulkyBook.DataAccess.csproj": {
+              "projectPath": "C:\\Users\\prade\\Github_MobileApp\\BulkyBook\\BulkyBook.DataAccess\\BulkyBook.DataAccess.csproj"
             }
           }
         }

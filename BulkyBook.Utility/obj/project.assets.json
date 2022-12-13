@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\prade\\source\\repos\\BulkyBook\\BulkyBook.Utility\\BulkyBook.Utility.csproj",
+      "projectUniqueName": "C:\\Users\\prade\\Github_MobileApp\\BulkyBook\\BulkyBook.Utility\\BulkyBook.Utility.csproj",
       "projectName": "BulkyBook.Utility",
-      "projectPath": "C:\\Users\\prade\\source\\repos\\BulkyBook\\BulkyBook.Utility\\BulkyBook.Utility.csproj",
+      "projectPath": "C:\\Users\\prade\\Github_MobileApp\\BulkyBook\\BulkyBook.Utility\\BulkyBook.Utility.csproj",
       "packagesPath": "C:\\Users\\prade\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\prade\\source\\repos\\BulkyBook\\BulkyBook.Utility\\obj\\",
+      "outputPath": "C:\\Users\\prade\\Github_MobileApp\\BulkyBook\\BulkyBook.Utility\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\prade\\AppData\\Roaming\\NuGet\\NuGet.Config",

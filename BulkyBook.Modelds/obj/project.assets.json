@@ -6358,11 +6358,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\prade\\source\\repos\\BulkyBook\\BulkyBook.Modelds\\BulkyBook.Models.csproj",
+      "projectUniqueName": "C:\\Users\\prade\\Github_MobileApp\\BulkyBook\\BulkyBook.Modelds\\BulkyBook.Models.csproj",
       "projectName": "BulkyBook.Models",
-      "projectPath": "C:\\Users\\prade\\source\\repos\\BulkyBook\\BulkyBook.Modelds\\BulkyBook.Models.csproj",
+      "projectPath": "C:\\Users\\prade\\Github_MobileApp\\BulkyBook\\BulkyBook.Modelds\\BulkyBook.Models.csproj",
       "packagesPath": "C:\\Users\\prade\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\prade\\source\\repos\\BulkyBook\\BulkyBook.Modelds\\obj\\",
+      "outputPath": "C:\\Users\\prade\\Github_MobileApp\\BulkyBook\\BulkyBook.Modelds\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\prade\\AppData\\Roaming\\NuGet\\NuGet.Config",
