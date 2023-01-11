@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "w1oRjtV0vTiUDtoWRTWyZB66ykVlhS5bbPcGKXS/bOA=",
+  "Hash": "cI8jE8RHXdGxb3S1L+SGVuRIuAk+4AZXyFWm9p1sT7o=",
   "Source": "BulkyBookWeb",
   "BasePath": "_content/BulkyBookWeb",
   "Mode": "Default",
@@ -1188,6 +1188,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\products\\f9f27d8c-1b48-45dc-9217-4d0ce38d9529.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\prade\\Github_MobileApp\\BulkyBook\\BulkyBookWeb\\wwwroot\\js\\company.js",
+      "SourceId": "BulkyBookWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\prade\\Github_MobileApp\\BulkyBook\\BulkyBookWeb\\wwwroot\\",
+      "BasePath": "_content/BulkyBookWeb",
+      "RelativePath": "js/company.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\company.js"
     },
     {
       "Identity": "C:\\Users\\prade\\Github_MobileApp\\BulkyBook\\BulkyBookWeb\\wwwroot\\js\\product.js",

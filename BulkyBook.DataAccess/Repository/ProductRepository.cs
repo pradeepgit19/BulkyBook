@@ -28,7 +28,7 @@ namespace BulkyBook.DataAccess.Repository
                 objRec.ISBN = obj.ISBN;
                 if (!string.IsNullOrEmpty(obj.ImageUrl))
                     objRec.ImageUrl = obj.ImageUrl;
-                // _db.Products.Update(objRec);
+                //_db.Products.Update(objRec);
             }
         }
     }

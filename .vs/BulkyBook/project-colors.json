@@ -15,6 +15,11 @@
       "ProjectGuid": "53613b01-e3e9-4369-80ba-1c7f4de7650d",
       "DisplayName": "BulkyBook.DataAccess",
       "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
     }
   },
   "NextColorIndex": 3
