@@ -1,8 +1,25 @@
 {
   "version": 2,
-  "dgSpecHash": "L7yJMdFcYFs78sSr8/Hi46Um1cUm1r6BAH48gfQ7lvmc/OWSiOyTbzt79/C6ugqMKyDpeEgU+IliiD2jch1SCw==",
+  "dgSpecHash": "1ge188UkA91gEgm8hvJDtu4aIDJr9Lu0ASe/gK1ArJ3DAI2jBQsT2i3AJfN7SD314goKcQ89DDuSdbu8GNsr8w==",
   "success": true,
   "projectFilePath": "C:\\Users\\prade\\Github_MobileApp\\BulkyBook\\BulkyBook.Utility\\BulkyBook.Utility.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\prade\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\6.0.12\\microsoft.aspnetcore.cryptography.internal.6.0.12.nupkg.sha512",
+    "C:\\Users\\prade\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\6.0.12\\microsoft.aspnetcore.cryptography.keyderivation.6.0.12.nupkg.sha512",
+    "C:\\Users\\prade\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.12\\microsoft.aspnetcore.identity.ui.6.0.12.nupkg.sha512",
+    "C:\\Users\\prade\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\6.0.0\\microsoft.extensions.caching.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\prade\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.0\\microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",
+    "C:\\Users\\prade\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\prade\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\6.0.0\\microsoft.extensions.fileproviders.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\prade\\.nuget\\packages\\microsoft.extensions.fileproviders.embedded\\6.0.12\\microsoft.extensions.fileproviders.embedded.6.0.12.nupkg.sha512",
+    "C:\\Users\\prade\\.nuget\\packages\\microsoft.extensions.identity.core\\6.0.12\\microsoft.extensions.identity.core.6.0.12.nupkg.sha512",
+    "C:\\Users\\prade\\.nuget\\packages\\microsoft.extensions.identity.stores\\6.0.12\\microsoft.extensions.identity.stores.6.0.12.nupkg.sha512",
+    "C:\\Users\\prade\\.nuget\\packages\\microsoft.extensions.logging\\6.0.0\\microsoft.extensions.logging.6.0.0.nupkg.sha512",
+    "C:\\Users\\prade\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\prade\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\prade\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\prade\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
+    "C:\\Users\\prade\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

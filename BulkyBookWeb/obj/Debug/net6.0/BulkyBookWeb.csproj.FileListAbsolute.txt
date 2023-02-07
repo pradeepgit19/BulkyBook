@@ -1128,3 +1128,5 @@ C:\Users\prade\Github_MobileApp\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\System.F
 C:\Users\prade\Github_MobileApp\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
 C:\Users\prade\Github_MobileApp\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\System.Security.Cryptography.Xml.dll
 C:\Users\prade\Github_MobileApp\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\prade\Github_MobileApp\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\BulkyBook.Utility.dll
+C:\Users\prade\Github_MobileApp\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\BulkyBook.Utility.pdb
