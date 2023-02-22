@@ -10,6 +10,9 @@
 
         ICompanyRepository Company { get; }
 
+        IApplicationUserRepository ApplicationUser { get; }
+        IShoppingCartRepository ShoppingCart { get; }
+
         void Save();
     }
 }

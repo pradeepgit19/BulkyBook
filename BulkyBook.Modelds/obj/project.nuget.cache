@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "L+GiziJvG/jpqetipHC7TKdJbYrHQKglXuW7Lpaxt7yuXpLG7Q3tcGi2Pe9h7AFXQ1YWgdGEDNIsdSy2D+7uZg==",
+  "dgSpecHash": "MVWaZQjSAfLN7XJNtEYRLMuGAwxbyyKQD8sjm2Wof3Ur0it0OB5JIMjLmJ8UwMkRTHAPmn7Zpz+RvSMxP45bXQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\prade\\Github_MobileApp\\BulkyBook\\BulkyBook.Modelds\\BulkyBook.Models.csproj",
   "expectedPackageFiles": [
@@ -23,7 +23,7 @@
     "C:\\Users\\prade\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.2.0\\microsoft.aspnetcore.http.features.2.2.0.nupkg.sha512",
     "C:\\Users\\prade\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\2.2.0\\microsoft.aspnetcore.jsonpatch.2.2.0.nupkg.sha512",
     "C:\\Users\\prade\\.nuget\\packages\\microsoft.aspnetcore.mvc.abstractions\\2.2.0\\microsoft.aspnetcore.mvc.abstractions.2.2.0.nupkg.sha512",
-    "C:\\Users\\prade\\.nuget\\packages\\microsoft.aspnetcore.mvc.core\\2.2.0\\microsoft.aspnetcore.mvc.core.2.2.0.nupkg.sha512",
+    "C:\\Users\\prade\\.nuget\\packages\\microsoft.aspnetcore.mvc.core\\2.2.5\\microsoft.aspnetcore.mvc.core.2.2.5.nupkg.sha512",
     "C:\\Users\\prade\\.nuget\\packages\\microsoft.aspnetcore.mvc.dataannotations\\2.2.0\\microsoft.aspnetcore.mvc.dataannotations.2.2.0.nupkg.sha512",
     "C:\\Users\\prade\\.nuget\\packages\\microsoft.aspnetcore.mvc.formatters.json\\2.2.0\\microsoft.aspnetcore.mvc.formatters.json.2.2.0.nupkg.sha512",
     "C:\\Users\\prade\\.nuget\\packages\\microsoft.aspnetcore.mvc.viewfeatures\\2.2.0\\microsoft.aspnetcore.mvc.viewfeatures.2.2.0.nupkg.sha512",

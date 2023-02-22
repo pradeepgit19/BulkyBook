@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "HT98T+7TkmYXOCoJ5u8eDCG5wmJfI4VfSoelc84oaYjX0dFULpq6e0Rwqy6J1D2ivxt9T4eaF3XSu2Aw9zk/9w==",
+  "dgSpecHash": "ZLhnK6u2MS7dl+2czPfbp3gfwKtX4wLTqBMAC9TxtINHD1+0boSPdopejcYqpnJq2avggZpM8D/hf1Q6XRzYvw==",
   "success": true,
   "projectFilePath": "C:\\Users\\prade\\Github_MobileApp\\BulkyBook\\BulkyBookWeb\\BulkyBookWeb.csproj",
   "expectedPackageFiles": [
@@ -29,7 +29,7 @@
     "C:\\Users\\prade\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.12\\microsoft.aspnetcore.identity.ui.6.0.12.nupkg.sha512",
     "C:\\Users\\prade\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\2.2.0\\microsoft.aspnetcore.jsonpatch.2.2.0.nupkg.sha512",
     "C:\\Users\\prade\\.nuget\\packages\\microsoft.aspnetcore.mvc.abstractions\\2.2.0\\microsoft.aspnetcore.mvc.abstractions.2.2.0.nupkg.sha512",
-    "C:\\Users\\prade\\.nuget\\packages\\microsoft.aspnetcore.mvc.core\\2.2.0\\microsoft.aspnetcore.mvc.core.2.2.0.nupkg.sha512",
+    "C:\\Users\\prade\\.nuget\\packages\\microsoft.aspnetcore.mvc.core\\2.2.5\\microsoft.aspnetcore.mvc.core.2.2.5.nupkg.sha512",
     "C:\\Users\\prade\\.nuget\\packages\\microsoft.aspnetcore.mvc.dataannotations\\2.2.0\\microsoft.aspnetcore.mvc.dataannotations.2.2.0.nupkg.sha512",
     "C:\\Users\\prade\\.nuget\\packages\\microsoft.aspnetcore.mvc.formatters.json\\2.2.0\\microsoft.aspnetcore.mvc.formatters.json.2.2.0.nupkg.sha512",
     "C:\\Users\\prade\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.extensions\\6.0.12\\microsoft.aspnetcore.mvc.razor.extensions.6.0.12.nupkg.sha512",
